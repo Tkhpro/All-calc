@@ -1,2 +1,2 @@
 # All-calc
-This program is designed to convert from one unit of measurement to another
+Это программа предназначена для перевода из одной единицы измерения в другую.
